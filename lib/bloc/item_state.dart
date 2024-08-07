@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import '../models/item.dart';
+import 'package:github_bloc_task/model/item_element/item_element.dart';
 
 abstract class ItemState extends Equatable {
   @override
